@@ -9,5 +9,6 @@ altura float,
 nacionalidade varchar(20)
 
 );
- des
+
+ describe pessoas;
  
