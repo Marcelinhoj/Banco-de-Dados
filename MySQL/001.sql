@@ -1,4 +1,5 @@
 CREATE DATABASE cadastro;
+use cadastro;
 create table pessoas (
 nome varchar(30),
 idade tinyint(3),
@@ -8,3 +9,5 @@ altura float,
 nacionalidade varchar(20)
 
 );
+ des
+ 
