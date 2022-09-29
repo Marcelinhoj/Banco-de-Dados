@@ -1,4 +1,5 @@
 CREATE DATABASE cadastro;
+default character utf8,
 use cadastro;
 create table pessoas (
 nome varchar(30),
